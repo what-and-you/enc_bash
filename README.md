@@ -20,5 +20,8 @@ bash enc_bash_enc.sh
 git pull
 ```
 ```
-cd enc_bash_enc
+cd enc_bash
+```
+```
+bash enc_bash_enc.sh
 ```
