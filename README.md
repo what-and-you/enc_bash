@@ -25,6 +25,7 @@ cd enc_bash
 ```
 bash enc_bash_enc.sh
 ```
-# <h5>untuk laporkan adanya bug di dalam script</h5>
-
+# <h2>untuk laporkan adanya bug di dalam script</h2>
+```
 bash lapor_bug.sh
+```
